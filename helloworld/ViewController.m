@@ -12,6 +12,7 @@
 - (IBAction)click:(id)sender;
 @property (weak, nonatomic) IBOutlet UITextField *input;
 @property (weak, nonatomic) IBOutlet UILabel *display;
+@property (weak, nonatomic) IBOutlet UILabel *md5;
 
 @end
 
